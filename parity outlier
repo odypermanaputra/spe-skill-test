@@ -1,0 +1,9 @@
+val myTrueBoolean = true
+val myFalseBoolean = false
+ 
+val x = 1
+val y = 3
+val w = 4
+val z = 6
+ 
+val n = x < z && z > w // n is true
