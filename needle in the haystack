@@ -1,0 +1,5 @@
+$kendaraan = ['Mobil', 'Motor', 'Sepeda', 'Truk', 'Bus'];
+if (in_array('Motor', $kendaraan))
+{
+	echo 'OK';
+}
